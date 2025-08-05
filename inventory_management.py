@@ -33,7 +33,8 @@ def main():
     sell_item("apples",25)
     print(inventory)
     calculate_inventory_value()
-    print_low_stock()
+    print_low_stock() 
+
 
 
 if __name__ == "__main__":
