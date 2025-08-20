@@ -119,4 +119,4 @@ for student, subject, grade in grades_data:
 print("Alice's average:", manager.get_student_average("Alice"))
 print("Math statistics:", manager.get_subject_statistics("Math"))
 print("Top 3 students:", manager.get_top_students(3))
-print("Failing students (passing grade 75):", manager.get_failing_students(75))
+print("Failing students (passing grade 75):", manager.get_failing_students(75))   
